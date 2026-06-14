@@ -1,0 +1,17 @@
+{
+  "duplicate_listing_cutoff_rows": 0,
+  "missing_target_count": 0,
+  "target_values": [
+    0,
+    1
+  ],
+  "present_forbidden_columns": [],
+  "future_leakage_columns_in_model_inputs": [],
+  "missing_report": 472,
+  "label_distribution": {
+    "1": 6678,
+    "0": 3802
+  },
+  "history_start_date": "2025-09-11",
+  "label_end_date": "2026-01-09"
+}

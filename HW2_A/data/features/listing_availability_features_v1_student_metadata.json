@@ -1,0 +1,9 @@
+{
+  "dataset_version": "v1_student",
+  "entity_column": "listing_id",
+  "cutoff": "2025-12-10",
+  "windows": "60D-30D",
+  "source tables": "listing, review, neighbourhood and host",
+  "exclusion rules": "do not use columns that have duplicated values and those that null values are more than 95 percent",
+  "target definition": "To predict high demand proxy and our calculation about fitire reservation"
+}
